@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sky.qrc</file>
+        <file>../../Pictures/Screenshots/Screenshot 2024-07-05 130354.png</file>
+    </qresource>
+</RCC>
